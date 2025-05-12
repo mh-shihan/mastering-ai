@@ -1,1 +1,9 @@
-# mastering-ai
+# How to get LLMs to do what you want
+## 1. Do not Ask AI, Let It Ask You
+```
+ How should I answer this question?
+ OR
+ I want to ask how I should answer this question?
+ What's the best way of framing that question to an AI?
+```
+## 2. Treat AI As Team Mate
